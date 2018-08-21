@@ -3,4 +3,4 @@ skiils
 
 hello world!:
 
-make b new branch is easy
+make c new branch is easy
